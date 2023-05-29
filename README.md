@@ -8,7 +8,7 @@
 
 ![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
 <br>
-
+<br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,css,mysql,react,vscode,figma,docker,selenium" />
