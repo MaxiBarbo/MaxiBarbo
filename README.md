@@ -16,7 +16,7 @@
 </p><p align="left">
   
 <p align="left">
-  Skills
+  ### 🛠 &nbsp;Tech Stack
 </p>
   
 <p align="left">
