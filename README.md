@@ -42,6 +42,9 @@ About Me:
 </p>
 <br>
 <br>
-<p align="center"><img height="15%" width="auto" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> 
+<!-- <p align="center"><img height="15%" width="auto" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>  -->
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
 
 ---  
