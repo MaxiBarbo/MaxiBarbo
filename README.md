@@ -13,6 +13,11 @@
 
 [![Ujwal Kandi's github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=UjwalKandi&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/UjwalKandi?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=6&theme=blue-green)](https://github.com/UjwalKandi)
 
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+</p>
+
 Here are some ideas to get you started:
 
 
