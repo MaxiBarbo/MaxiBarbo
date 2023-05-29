@@ -16,8 +16,8 @@
 </p><p align="left">
   
 <p align="left">
-  
-</p><p align="left">
+  Skills
+</p>
   
 <p align="left">
   <a href="https://skillicons.dev">
