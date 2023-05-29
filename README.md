@@ -35,7 +35,6 @@ About Me:
 - 🤔 I’m looking for help with: System Design, Software Architechture
 - 💬 Ask me about: Vue.js, Backend Development, Project Structures and Design Patterns
 - ⚡ Fun fact: Otters are cool
- <br>
  
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maike-heris-do-amaral-belarmino-643483205/)
