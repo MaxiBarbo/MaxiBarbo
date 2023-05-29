@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <p align="right"> 
-  Views <br>
+  Views  <br>
   <img src="https://profile-counter.glitch.me/MaxiBarbo/count.svg"/>
 </p>
 
