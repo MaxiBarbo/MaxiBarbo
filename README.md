@@ -41,6 +41,6 @@ About Me:
 <a href="https://www.buymeacoffee.com/phuocantd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phuocantd" /></a>
 </p>
 <br>
-
-<p align="center"><img height="25%" width="auto" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> 
+<br>
+<p align="center"><img height="15%" width="auto" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> 
   
