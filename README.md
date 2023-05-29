@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <p align="right"> 
 <!--   Visitor count<br> -->
-  <img src="https://profile-counter.glitch.me/MaxiBarbo/count.svg" />
+  <img src="https://profile-counter.glitch.me/MaxiBarbo/count.svg" />Views
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3FC015FF&size=30&lines=Hello!👋+I'm+a+QA+-+Tester;Manual+and+Automation;)](https://git.io/typing-svg)
