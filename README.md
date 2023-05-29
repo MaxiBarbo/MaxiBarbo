@@ -1,4 +1,8 @@
 ### Hi there 👋
+<p align="right"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+</p>
 
 ![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
 
