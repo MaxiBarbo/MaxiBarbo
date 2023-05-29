@@ -36,10 +36,6 @@ About Me:
 - 💬 Ask me about: Vue.js, Backend Development, Project Structures and Design Patterns
 - ⚡ Fun fact: Otters are cool
  
-[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maike-heris-do-amaral-belarmino-643483205/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maike.h.belarmino@gmail.com)
-[![DIscord](https://img.shields.io/badge/-Discord-000?style=flat&logo=Discord&logoColor=White)](mailto:maike.h.belarmino@gmail.com)
 <!-- <p>
 <a href="https://www.buymeacoffee.com/phuocantd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phuocantd" /></a>
 </p> -->
@@ -53,6 +49,11 @@ About Me:
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
    alt="example" />
 </p>
+
+[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maike-heris-do-amaral-belarmino-643483205/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maike.h.belarmino@gmail.com)
+[![DIscord](https://img.shields.io/badge/-Discord-000?style=flat&logo=Discord&logoColor=White)](mailto:maike.h.belarmino@gmail.com)
 
 ---  
 <p>
