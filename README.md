@@ -43,8 +43,11 @@ About Me:
 <br>
 <br>
 <!-- <p align="center"><img height="15%" width="auto" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>  -->
-<div>
+<!-- <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
+</div> -->
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+   alt="example" />
+</p>
 ---  
