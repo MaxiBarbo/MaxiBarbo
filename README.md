@@ -37,9 +37,9 @@ About Me:
 - ⚡ Fun fact: Otters are cool
  <br>
  
-<p>
+<!-- <p>
 <a href="https://www.buymeacoffee.com/phuocantd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phuocantd" /></a>
-</p>
+</p> -->
 <br>
 <br>
 <!-- <p align="center"><img height="15%" width="auto" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>  -->
@@ -56,6 +56,7 @@ About Me:
 <a href="https://www.buymeacoffee.com/phuocantd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phuocantd" /></a>
 </p>
 <br>
+
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maike-heris-do-amaral-belarmino-643483205/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maike.h.belarmino@gmail.com)
