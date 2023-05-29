@@ -15,17 +15,8 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viralbhadeshiya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <br>
-  <br>
- </p><p align="left">
+</p><p align="left">
   
-  
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MaxiBarbo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-</p>
-
-[![Estadísticas de tu repositorio](https://github-readme-stats.vercel.app/api/pin/?username=TU_NOMBRE_DE_USUARIO&repo=NOMBRE_DE_TU_REPOSITORIO)](URL_DE_TU_REPOSITORIO)
-
-
 Here are some ideas to get you started:
 
 
