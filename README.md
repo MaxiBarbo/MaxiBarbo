@@ -35,3 +35,10 @@ About Me:
 - 🤔 I’m looking for help with: System Design, Software Architechture
 - 💬 Ask me about: Vue.js, Backend Development, Project Structures and Design Patterns
 - ⚡ Fun fact: Otters are cool
+ <br>
+ 
+<p>
+<a href="https://www.buymeacoffee.com/phuocantd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phuocantd" /></a>
+</p>
+ 
+  
