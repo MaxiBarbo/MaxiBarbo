@@ -9,12 +9,6 @@
 ![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
 <br>
 <br>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,mysql,react,vscode,figma,docker,selenium" />
-  </a>
-</p>
-
 
 <p align="left">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MaxiBarbo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -25,6 +19,13 @@
   
 </p><p align="left">
   
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,mysql,react,vscode,figma,docker,selenium" />
+  </a>
+</p>
+
+
 About Me:
 - 🔭 I’m currently working on: Web Applications
 - 🌱 I’m currently learning: Vue.js, jest, CI/CD
