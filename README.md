@@ -28,12 +28,20 @@
 </p>
 
 <details>
+    
+      - These projects were built with self-organized teams implementing the scrum methodology and using the Mern stack. <br />          
+</details>
+
+<details>
     <summary>📋<em>Testing Proyects</em></summary>
-       These projects were built with self-organized teams implementing the scrum methodology and using the Mern stack. <br />   
-        [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike) 
-        [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](#ta-house--proyecto-real-estate-de-idforideas-version-mobile)</li>
-        [Testing Figaro - Barbery](#testing-figaro---barbery)
-    </ul>
+    <p align="left">
+        <b>Estátistica do Github</b> <br />
+        [GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike)
+    </p>
+    <p align="center">
+        <b>Techs mais utilizadas nos projetos</b> <br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfelipeog&theme=dark" alt="Techs utilizadas nos projetos" />
+    </p>
 </details>
 
 <!-- <p>
