@@ -34,7 +34,7 @@
        These projects were built with self-organized teams implementing the scrum methodology and using the Mern stack. <br />   
     </p>
     <ul>
-        <li> [Open Cart](#open-cart)</li>
+        <li> [Ta House](https://docs.google.com/document/d/1dUFPsR8bqabMhBHuJoDZJEjY0QTFLXMIijpkcEeTWhU/edit)</li>
         <li> [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](#ta-house--proyecto-real-estate-de-idforideas-version-mobile)</li>
         <li> [Testing Figaro - Barbery](#testing-figaro---barbery)</li>
     </ul>
