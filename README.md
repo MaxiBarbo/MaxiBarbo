@@ -28,10 +28,9 @@
 </p>
 
 <details>
-       <summary>📋<em>Testing Proyects</em></summary>
+    <summary>📋<em>Testing Proyects</em></summary>
     <p>
-        Sou um estudante autodidata, introvertido e bem observador. <br />
-        
+       These projects were built with self-organized teams implementing the scrum methodology and using the Mern stack. <br />   
     </p>
     <ul>
         <li> [Open Cart](#open-cart)</li>
