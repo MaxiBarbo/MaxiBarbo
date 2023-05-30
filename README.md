@@ -27,15 +27,22 @@
   </a>
 </p>
 
+<details>
+    <summary>About Me:</summary>
+    <p>
+        Sou um estudante autodidata, introvertido e bem observador. <br />
+        Atualmente venho contribuindo com o mundo open source para colocar em prática os conhecimentos adquiridos em meus estudos. Também ajudo a galera que está iniciando na programação nas comunidades.
+    </p>
+    <ul>
+      - 🔭 I’m currently working on: Web Applications
+      - 🌱 I’m currently learning: Vue.js, jest, CI/CD
+      - 👯 I’m looking to collaborate on: Large scale web projects
+      - 🤔 I’m looking for help with: System Design, Software Architechture
+      - 💬 Ask me about: Vue.js, Backend Development, Project Structures and Design Patterns
+      - ⚡ Fun fact: Otters are cool
+    </ul>
+</details>
 
-About Me:
-- 🔭 I’m currently working on: Web Applications
-- 🌱 I’m currently learning: Vue.js, jest, CI/CD
-- 👯 I’m looking to collaborate on: Large scale web projects
-- 🤔 I’m looking for help with: System Design, Software Architechture
-- 💬 Ask me about: Vue.js, Backend Development, Project Structures and Design Patterns
-- ⚡ Fun fact: Otters are cool
- 
 <!-- <p>
 <a href="https://www.buymeacoffee.com/phuocantd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phuocantd" /></a>
 </p> -->
