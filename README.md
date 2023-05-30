@@ -29,6 +29,7 @@
 
 <details>
     <summary>📋<em>Testing Proyects</em></summary>
+    <br>
     <p>
        These projects were built with self-organized teams implementing the scrum methodology and using the Mern stack. <br />   
     </p>
