@@ -27,28 +27,6 @@
   </a>
 </p>
 
-<details>
-    
-      - These projects were built with self-organized teams implementing the scrum methodology and using the Mern stack. <br />          
-</details>
-
-<details>
-    <summary>📋<em>Testing Proyects</em></summary>
-    <p align="left">
-        <b>Estátistica do Github</b> <br />
-        [GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike)
-    </p>
-    <p align="center">
-        <b>Techs mais utilizadas nos projetos</b> <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfelipeog&theme=dark" alt="Techs utilizadas nos projetos" />
-    </p>
-</details>
-
-<!-- <p>
-<a href="https://www.buymeacoffee.com/phuocantd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phuocantd" /></a>
-</p> -->
-<br>
-
 <!-- <p align="center"><img height="15%" width="auto" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>  -->
 <!-- <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
