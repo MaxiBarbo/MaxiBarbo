@@ -53,7 +53,7 @@
 [![DIscord](https://img.shields.io/badge/-Discord-000?style=flat&logo=Discord&logoColor=White)](mailto:maike.h.belarmino@gmail.com) -->
 <p align="left">
 <a href="https://linkedin.com/in/maxi-barbosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maxi" height="30" width="40" /></a>
-<a href="https://gmail.com/maxi10lb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="maxi" height="30" width="40" /></a>
+<a href="https://gmail.com/maxi10lb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail-outline.svg" alt="maxi" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maxi" height="30" width="40" /></a>
 <a href="https://discord.gg/#5995" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#5995" height="30" width="40" /></a>
 </p>
