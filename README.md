@@ -29,14 +29,10 @@
 
 <details>
     <summary>📋<em>Testing Proyects</em></summary>
-    <br>
-    <p>
        These projects were built with self-organized teams implementing the scrum methodology and using the Mern stack. <br />   
-    </p>
-    <ul>
-        <li> [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike) </li>
-        <li> [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](#ta-house--proyecto-real-estate-de-idforideas-version-mobile)</li>
-        <li> [Testing Figaro - Barbery](#testing-figaro---barbery)</li>
+        [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike) 
+        [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](#ta-house--proyecto-real-estate-de-idforideas-version-mobile)</li>
+        [Testing Figaro - Barbery](#testing-figaro---barbery)
     </ul>
 </details>
 
