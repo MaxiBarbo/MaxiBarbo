@@ -45,10 +45,16 @@
    alt="example" />
 </p>
 
-[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike)
+<!-- [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maike-heris-do-amaral-belarmino-643483205/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maike.h.belarmino@gmail.com)
-[![DIscord](https://img.shields.io/badge/-Discord-000?style=flat&logo=Discord&logoColor=White)](mailto:maike.h.belarmino@gmail.com)
+[![DIscord](https://img.shields.io/badge/-Discord-000?style=flat&logo=Discord&logoColor=White)](mailto:maike.h.belarmino@gmail.com) -->
+<p align="left">
+<a href="https://linkedin.com/in/aryasoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aryasoni" height="30" width="40" /></a>
+<a href="https://fb.com/aryasoni1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aryasoni1998" height="30" width="40" /></a>
+<a href="https://instagram.com/arya_soni98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arya_soni98" height="30" width="40" /></a>
+<a href="https://discord.gg/#8991" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#8991" height="30" width="40" /></a>
+</p>
 
 ---  
 
