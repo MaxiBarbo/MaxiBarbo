@@ -28,15 +28,15 @@
 </p>
 
 <details>
-###<summary>📋<em>Testing Proyects</em></summary>
+### <summary>📋<em>Testing Proyects</em></summary>
     <p>
         Sou um estudante autodidata, introvertido e bem observador. <br />
         
     </p>
     <ul>
-        <li>[Open Cart](#open-cart)</li>
-        <li>[TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](#ta-house--proyecto-real-estate-de-idforideas-version-mobile)</li>
-        <li>[Testing Figaro - Barbery](#testing-figaro---barbery)</li>
+        <li> [Open Cart](#open-cart)</li>
+        <li> [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](#ta-house--proyecto-real-estate-de-idforideas-version-mobile)</li>
+        <li> [Testing Figaro - Barbery](#testing-figaro---barbery)</li>
     </ul>
 </details>
 
