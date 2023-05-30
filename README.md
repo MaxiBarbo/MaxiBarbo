@@ -28,10 +28,10 @@
 </p>
 
 <details>
-    <summary>### 📋<em>Testing Proyects</em></summary>
+###<summary>📋<em>Testing Proyects</em></summary>
     <p>
         Sou um estudante autodidata, introvertido e bem observador. <br />
-        Atualmente venho contribuindo com o mundo open source para colocar em prática os conhecimentos adquiridos em meus estudos. Também ajudo a galera que está iniciando na programação nas comunidades.
+        
     </p>
     <ul>
         <li>[Open Cart](#open-cart)</li>
