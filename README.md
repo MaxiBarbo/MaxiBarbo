@@ -15,6 +15,14 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiBarbo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"> 
 </p><p align="left">
   
+  
+<h3> Here's some fun facts about me: </h3>  
+- **I am a ***HUGE Harry Potter fan***⚡🧙🏻‍♂️**
+- **I'm a hopeful web and app developer 👩🏻‍💻**
+- **I am a true science lover 🔬**
+- **Finally, I'm a football-watching frenzy ⚽!**
+- **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/)**
+  
 ## 🛠&nbsp;Tech Stack
   
 <p align="left">
