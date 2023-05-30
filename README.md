@@ -17,11 +17,11 @@
   
   
 <h3> Here's some fun facts about me: </h3>  
-- **I am a ***HUGE Harry Potter fan***⚡🧙🏻‍♂️**
-- **I'm a hopeful web and app developer 👩🏻‍💻**
-- **I am a true science lover 🔬**
-- **Finally, I'm a football-watching frenzy ⚽!**
-- **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/)**
+  - **I am a ***HUGE Harry Potter fan***⚡🧙🏻‍♂️**
+  - **I'm a hopeful web and app developer 👩🏻‍💻**
+  - **I am a true science lover 🔬**
+  - **Finally, I'm a football-watching frenzy ⚽!**
+  - **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/)**
   
 ## 🛠&nbsp;Tech Stack
   
