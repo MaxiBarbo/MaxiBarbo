@@ -28,18 +28,15 @@
 </p>
 
 <details>
-    <summary>About Me:</summary>
+    <summary>### 📋<em>Testing Proyects</em></summary>
     <p>
         Sou um estudante autodidata, introvertido e bem observador. <br />
         Atualmente venho contribuindo com o mundo open source para colocar em prática os conhecimentos adquiridos em meus estudos. Também ajudo a galera que está iniciando na programação nas comunidades.
     </p>
     <ul>
-      - 🔭 I’m currently working on: Web Applications
-      - 🌱 I’m currently learning: Vue.js, jest, CI/CD
-      - 👯 I’m looking to collaborate on: Large scale web projects
-      - 🤔 I’m looking for help with: System Design, Software Architechture
-      - 💬 Ask me about: Vue.js, Backend Development, Project Structures and Design Patterns
-      - ⚡ Fun fact: Otters are cool
+        <li>[Open Cart](#open-cart)</li>
+        <li>[TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](#ta-house--proyecto-real-estate-de-idforideas-version-mobile)</li>
+        <li>[Testing Figaro - Barbery](#testing-figaro---barbery)</li>
     </ul>
 </details>
 
