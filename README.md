@@ -18,7 +18,7 @@
   
 <h3> About me: </h3>  
 
-  - **I am a ***Proactive***⚡🧙🏻‍♂️**
+  - **I am a ***Proactive***⚡🏻‍♂️**
   - **I'm a Autodidact👩🏻‍💻**
   - **I am Testing lover 🔬**
   - **Finally, I'm a loking to get a tester positionto apply my skill and learn from professionals!**
