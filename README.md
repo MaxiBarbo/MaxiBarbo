@@ -21,7 +21,7 @@
   - **I am a ***Proactive***⚡**
   - **I'm a Autodidact👩🏻‍💻**
   - **I am Testing lover 🔬**
-  - **Finally, I'm a loking to get a tester positionto apply my skill and learn from professionals!**
+  - **Finally, I'm a loking to get a tester position to apply my skill and learn from professionals!**
 <!--   - **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/)** -->
   
 <!-- ## 🛠&nbsp;Tech Stack -->
