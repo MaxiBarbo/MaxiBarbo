@@ -10,7 +10,7 @@
 
    **✒️ [Mi CV](./Docs/cv_maxibarbosa_en.pdf)**
 
-   <a href="https://file.notion.so/f/s/d6ea0796-0fac-4fa3-b34d-da4a22ab32f5/cv_MaxiBarbosa_es.pdf?id=ed1186e1-4904-49e8-8c12-8e6428aaabec&table=block&spaceId=395b0b4d-92e1-4d02-aa41-7e82186dea93&expirationTimestamp=1695045600000&signature=FeIaYEJD-z2Q_FcLtLQcP0xrddHASrQp0qE5HXl_SGA&downloadName=cv_MaxiBarbosa_es.pdf"><img src="https://img.shields.io/badge/-billpwchan%40hotmail.com-7B83EB?&style=plastic&logo=Microsoft-outlook&logoColor=white" ></a>
+   <a href="https://file.notion.so/f/s/d6ea0796-0fac-4fa3-b34d-da4a22ab32f5/cv_MaxiBarbosa_es.pdf?id=ed1186e1-4904-49e8-8c12-8e6428aaabec&table=block&spaceId=395b0b4d-92e1-4d02-aa41-7e82186dea93&expirationTimestamp=1695045600000&signature=FeIaYEJD-z2Q_FcLtLQcP0xrddHASrQp0qE5HXl_SGA&downloadName=cv_MaxiBarbosa_es.pdf"><img src="https://img.shields.io/badge/Mi CV-7B83EB?&style=plastic&logo=Microsoft-outlook&logoColor=white" ></a>
    
    <a href="https://www.linkedin.com/in/maxi-barbosa/" target="blank"><img align="center" src="https://img.shields.io/badge/Maxi Barbosa-0077B5?style=plastic&logo=linkedin&logoColor=white" /></a>
    
