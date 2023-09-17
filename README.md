@@ -22,7 +22,6 @@
   - **Finally, I'm a loking to get a tester position to apply my skill and learn from professionals!**
     
 <br>
-<br>
 
 <p align="left">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MaxiBarbo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
