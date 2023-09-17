@@ -22,9 +22,13 @@
   - **I'm a Autodidact👩🏻‍💻**
   - **I am Testing lover 🔬**
   - **Finally, I'm a loking to get a tester position to apply my skill and learn from professionals!**
-<!--   - **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/)** -->
+    
+   **✒️ [Mi CV](./Docs/cv_maxibarbosa_en.pdf)**
+   
+   <a href="https://www.linkedin.com/in/maxi-barbosa/" target="blank"><img align="center" src="https://img.shields.io/badge/Maxi Barbosa-0077B5?style=plastic&logo=linkedin&logoColor=white" /></a>
+   
+   <a href="https://maxi-barbosa-proyects.notion.site/maxi-barbosa-proyects/Maxi-Barbosa-39420ce4122a468692e1367ef17ff6e9" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-black?style=plastic&logo=notion&logoColor=white" /></a>
   
-<!-- ## 🛠&nbsp;Tech Stack -->
 <br>
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px> Tech Stack </h2>
 
