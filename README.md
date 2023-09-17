@@ -7,15 +7,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3FC015FF&size=30&lines=Hello!👋+I'm+a+QA+-+Tester;Manual+and+Automation⚙️;)](https://git.io/typing-svg)
 
 ![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
-<br>
-<br>
 
-<p align="left">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MaxiBarbo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiBarbo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"> 
-</p><p align="left">
-  
-  
+   **✒️ [Mi CV](./Docs/cv_maxibarbosa_en.pdf)**
+   
+   <a href="https://www.linkedin.com/in/maxi-barbosa/" target="blank"><img align="center" src="https://img.shields.io/badge/Maxi Barbosa-0077B5?style=plastic&logo=linkedin&logoColor=white" /></a>
+   
+   <a href="https://maxi-barbosa-proyects.notion.site/maxi-barbosa-proyects/Maxi-Barbosa-39420ce4122a468692e1367ef17ff6e9" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-black?style=plastic&logo=notion&logoColor=white" /></a>
+
 <h3> About me: </h3>  
 
   - **I am a ***Proactive***⚡**
@@ -23,11 +21,13 @@
   - **I am Testing lover 🔬**
   - **Finally, I'm a loking to get a tester position to apply my skill and learn from professionals!**
     
-   **✒️ [Mi CV](./Docs/cv_maxibarbosa_en.pdf)**
-   
-   <a href="https://www.linkedin.com/in/maxi-barbosa/" target="blank"><img align="center" src="https://img.shields.io/badge/Maxi Barbosa-0077B5?style=plastic&logo=linkedin&logoColor=white" /></a>
-   
-   <a href="https://maxi-barbosa-proyects.notion.site/maxi-barbosa-proyects/Maxi-Barbosa-39420ce4122a468692e1367ef17ff6e9" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-black?style=plastic&logo=notion&logoColor=white" /></a>
+<br>
+<br>
+
+<p align="left">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MaxiBarbo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiBarbo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"> 
+</p><p align="left">
   
 <br>
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px> Tech Stack </h2>
