@@ -8,11 +8,13 @@
 
 ![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
 
-   <a href="https://file.notion.so/f/s/d6ea0796-0fac-4fa3-b34d-da4a22ab32f5/cv_MaxiBarbosa_es.pdf?id=ed1186e1-4904-49e8-8c12-8e6428aaabec&table=block&spaceId=395b0b4d-92e1-4d02-aa41-7e82186dea93&expirationTimestamp=1695045600000&signature=FeIaYEJD-z2Q_FcLtLQcP0xrddHASrQp0qE5HXl_SGA&downloadName=cv_MaxiBarbosa_es.pdf"><img src="https://img.shields.io/badge/Mi CV-B26700?&style=plastic&logo=Microsoft-outlook&logoColor=white" ></a>
+<a href="https://www.linkedin.com/in/maxi-barbosa/" target="blank"><img align="center" src="https://img.shields.io/badge/Maxi Barbosa-0077B5?style=plastic&logo=linkedin&logoColor=white" /></a> | <a href="https://maxi-barbosa-proyects.notion.site/maxi-barbosa-proyects/Maxi-Barbosa-39420ce4122a468692e1367ef17ff6e9" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-black?style=plastic&logo=notion&logoColor=white" /></a> | <a href="https://file.notion.so/f/s/d6ea0796-0fac-4fa3-b34d-da4a22ab32f5/cv_MaxiBarbosa_es.pdf?id=ed1186e1-4904-49e8-8c12-8e6428aaabec&table=block&spaceId=395b0b4d-92e1-4d02-aa41-7e82186dea93&expirationTimestamp=1695045600000&signature=FeIaYEJD-z2Q_FcLtLQcP0xrddHASrQp0qE5HXl_SGA&downloadName=cv_MaxiBarbosa_es.pdf" target="blank"><img align="center" src="https://img.shields.io/badge/📝 Mi CV-E06D06?style=plastic&logo=pdf&logoColor=white" /></a>
+
+<!--   <a href="https://file.notion.so/f/s/d6ea0796-0fac-4fa3-b34d-da4a22ab32f5/cv_MaxiBarbosa_es.pdf?id=ed1186e1-4904-49e8-8c12-8e6428aaabec&table=block&spaceId=395b0b4d-92e1-4d02-aa41-7e82186dea93&expirationTimestamp=1695045600000&signature=FeIaYEJD-z2Q_FcLtLQcP0xrddHASrQp0qE5HXl_SGA&downloadName=cv_MaxiBarbosa_es.pdf"><img src="https://img.shields.io/badge/Mi CV-B26700?&style=plastic&logo=Microsoft-outlook&logoColor=white" ></a>
    
    <a href="https://www.linkedin.com/in/maxi-barbosa/" target="blank"><img align="center" src="https://img.shields.io/badge/Maxi Barbosa-0077B5?style=plastic&logo=linkedin&logoColor=white" /></a>
    
-   <a href="https://maxi-barbosa-proyects.notion.site/maxi-barbosa-proyects/Maxi-Barbosa-39420ce4122a468692e1367ef17ff6e9" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-black?style=plastic&logo=notion&logoColor=white" /></a>
+   <a href="https://maxi-barbosa-proyects.notion.site/maxi-barbosa-proyects/Maxi-Barbosa-39420ce4122a468692e1367ef17ff6e9" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-black?style=plastic&logo=notion&logoColor=white" /></a> -->
 
 <h3> About me: </h3>  
 
